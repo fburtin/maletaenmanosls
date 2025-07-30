@@ -8,25 +8,25 @@ function Hero() {
       ]
     },
     {
-      country: "Brazil",
+      country: "Brasil",
       videos: [
         "/videos/Brazil/13326487-hd_1920_1080_30fps.mp4",
         "/videos/Brazil/4902988-hd_1920_1080_25fps.mp4"
       ]
     },
     {
-      country: "France",
+      country: "Francia",
       videos: ["/videos/France/3703770-hd_1920_1080_30fps.mp4"]
     },
     {
-      country: "Italy",
+      country: "Italia",
       videos: [
         "/videos/Italy/20606535-hd_1920_1080_24fps.mp4",
         "/videos/Italy/4840581-hd_1920_1080_25fps.mp4"
       ]
     },
     {
-      country: "Morocco",
+      country: "Marruecos",
       videos: [
         "/videos/Morocco/3015519-hd_1920_1080_24fps.mp4",
         "/videos/Morocco/3115231-hd_1920_1080_24fps.mp4",
@@ -41,14 +41,14 @@ function Hero() {
       ]
     },
     {
-      country: "Spain",
+      country: "España",
       videos: [
         "/videos/Spain/17579220-hd_1920_1080_25fps.mp4",
         "/videos/Spain/7069320-hd_2048_1080_24fps.mp4"
       ]
     },
     {
-      country: "Switzerland",
+      country: "Suiza",
       videos: [
         "/videos/Switzerland/3512545-hd_1920_1080_25fps.mp4",
         "/videos/Switzerland/3853624-hd_1920_1080_30fps.mp4"
