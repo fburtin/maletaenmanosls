@@ -16,7 +16,9 @@ function Hero() {
     },
     {
       country: "Francia",
-      videos: ["/videos/France/3703770-hd_1920_1080_30fps.mp4"]
+      videos: ["/videos/France/2034261-hd_1920_1080_30fps.mp4",
+        "/videos/France/3703770-hd_1920_1080_30fps.mp4"
+      ]
     },
     {
       country: "Italia",
