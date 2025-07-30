@@ -1,0 +1,12 @@
+.country-title {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #333;
+  border-bottom: 2px solid #ccc;
+  display: inline-block;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
