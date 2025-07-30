@@ -1,12 +1,16 @@
-import React from 'react';
-
 function Hero() {
+  const fileId = '18c9DpWlcixSF-X2aH1bFxsPV72vFkGZn'; // Replace with actual ID
+  const embedUrl = `https://drive.google.com/file/d/${fileId}/preview`;
+
   return (
-    <section>
-        <video width="100%" height="auto" controls>
-            <source src="https://drive.google.com/file/d/18c9DpWlcixSF-X2aH1bFxsPV72vFkGZn/view?usp=sharing/preview"/>Your browser does not support the video tag.
-        </video>
-    </section>
+    <div className="ratio ratio-16x9">
+      <iframe
+        src={embedUrl}
+        allow="autoplay"
+        allowFullScreen
+        title="Video desde Google Drive"
+      ></iframe>
+    </div>
   );
 }
 
