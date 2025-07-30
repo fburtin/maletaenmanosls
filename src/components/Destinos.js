@@ -62,7 +62,7 @@ function Destinos() {
         },
         {
           src: "/videos/Italy/5912737-sd_640_360_30fps.mp4",
-          title: "terraza del Gianicolo (en italiano, Janiculum)"
+          title: "Terraza del Gianicolo (en italiano, Janiculum)"
         },
         {
           src: "/videos/Italy/5979469-sd_640_360_30fps.mp4",
@@ -113,7 +113,7 @@ function Destinos() {
         },
         {
           src: "/videos/Spain/8441280-sd_640_360_25fps.mp4",
-          title: " Plaza de Colón en Madrid"
+          title: "Plaza de Colón en Madrid"
         },
         {
           src: "/videos/Spain/4243914-sd_640_360_30fps.mp4",
@@ -129,12 +129,12 @@ function Destinos() {
           title: "Alpes Suizos"
         },
         {
-          src: "/videos/Switzerland/3655304-sd_640_360_30fps.mp4",
-          title: "Berna"
-        },
-        {
           src: "/videos/Switzerland/3217373-sd_640_360_25fps.mp4",
           title: "Alpes Suizos"
+        },
+        {
+          src: "/videos/Switzerland/3655304-sd_640_360_30fps.mp4",
+          title: "Berna"
         }
       ]
     }
