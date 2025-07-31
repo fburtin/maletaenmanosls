@@ -2,7 +2,7 @@ import '../styles/Header.css';
 
 function Header() {
   return (
-    <header className="bg-white py-3 text-center">
+    <header className="py-3 text-center">
       <div className="container">
         <img
           src="/images/logo.png"
