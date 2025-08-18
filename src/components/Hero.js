@@ -16,7 +16,7 @@ export default function Hero() {
       <div className="row justify-content-center">
         {IMAGES.map((src, index) => (
           <div key={index} className="col-12 col-sm-6 col-md-4 mb-4 d-flex flex-column align-items-center">
-            <div className="w-100" style={{ maxWidth: "320px" }}>
+            <div className="w-100" style={{ maxWidth: "400px" }}>
               <img
                 src={src}
                 alt={`Slide ${index + 1}`}
