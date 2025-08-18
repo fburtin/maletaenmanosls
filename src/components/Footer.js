@@ -31,7 +31,7 @@ function Footer() {
           <div className="d-flex align-items-center gap-2">
             <FaInstagram className="fs-4" />
             <a
-              href="https://www.instagram.com/maletaenmanoviajes_sls"
+              href="https://www.instagram.com/Maletaenmano_sls_viajes"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white text-decoration-none"
