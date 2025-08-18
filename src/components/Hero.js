@@ -2,12 +2,12 @@ import React from "react";
 
 export default function Hero() {
   const IMAGES = [
-    "/images/promo/cayo.jpeg",
-    "/images/promo/jamaica.jpeg",
-    "/images/promo/miches.jpeg",
-    "/images/promo/portogalinhas.jpeg",
-    "/images/promo/repdom.jpeg",
-    "/images/promo/sanandres.jpeg",
+    "/promos/cayo.jpeg",
+    "/promos/jamaica.jpeg",
+    "/promos/miches.jpeg",
+    "/promos/portogalinhas.jpeg",
+    "/promos/repdom.jpeg",
+    "/promos/sanandres.jpeg",
   ];
 
   return (
