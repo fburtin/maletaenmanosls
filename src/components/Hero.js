@@ -2,12 +2,22 @@ import React from "react";
 
 export default function Hero() {
   const IMAGES = [
-    "/promos/cayo.jpeg",
-    "/promos/jamaica.jpeg",
-    "/promos/miches.jpeg",
-    "/promos/portogalinhas.jpeg",
-    "/promos/repdom.jpeg",
-    "/promos/sanandres.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.30.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.33.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.40.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.41.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.42.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.43.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.41.55.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.48.40.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.48.41.jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.41.55 (1).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.41.55 (2).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.43 (1).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.42 (1).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.41 (1).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.41 (2).jpeg",
+      "/promos/WhatsApp Image 2025-10-03 at 07.38.40 (2).jpeg"
   ];
 
   return (
